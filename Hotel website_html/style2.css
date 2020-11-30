@@ -1,0 +1,7 @@
+.gallery{
+   margin: 10px 50px;
+}
+ .gallery img{
+    width:230px;
+   padding: 5px;
+}
